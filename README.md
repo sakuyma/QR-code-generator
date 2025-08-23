@@ -5,9 +5,7 @@ A simple Python-based QR code generator that allows you to create customizable Q
 ## Features
 
 - � **Easy to Use**: Generate QR codes with just a few lines of code.
-- 🎨 **Customizable**: Adjust size, color, and error correction.
 - 📁 **Multiple Formats**: Save QR codes as PNG.
-- 📋 **Clipboard Support**: Copy QR codes directly to clipboard (Windows only).
 
 ## Installation
 
